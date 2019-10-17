@@ -1,0 +1,8 @@
+D:\Documentos\Ubistart\Servopa\Servopa.Domain\bin\Release\netcoreapp2.2\Servopa.Domain.deps.json
+D:\Documentos\Ubistart\Servopa\Servopa.Domain\bin\Release\netcoreapp2.2\Servopa.Domain.dll
+D:\Documentos\Ubistart\Servopa\Servopa.Domain\bin\Release\netcoreapp2.2\Servopa.Domain.pdb
+D:\Documentos\Ubistart\Servopa\Servopa.Domain\obj\Release\netcoreapp2.2\Servopa.Domain.csprojAssemblyReference.cache
+D:\Documentos\Ubistart\Servopa\Servopa.Domain\obj\Release\netcoreapp2.2\Servopa.Domain.AssemblyInfoInputs.cache
+D:\Documentos\Ubistart\Servopa\Servopa.Domain\obj\Release\netcoreapp2.2\Servopa.Domain.AssemblyInfo.cs
+D:\Documentos\Ubistart\Servopa\Servopa.Domain\obj\Release\netcoreapp2.2\Servopa.Domain.dll
+D:\Documentos\Ubistart\Servopa\Servopa.Domain\obj\Release\netcoreapp2.2\Servopa.Domain.pdb

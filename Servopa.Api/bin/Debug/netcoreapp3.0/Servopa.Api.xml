@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Servopa.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Servopa.Api.Controllers.ValuesController.Get">
+            <summary>
+            Get API Value
+            </summary>
+            <remarks>This API will get the values.</remarks>
+        </member>
+    </members>
+</doc>

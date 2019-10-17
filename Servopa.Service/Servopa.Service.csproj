@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="8.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Servopa.Domain\Servopa.Domain.csproj" />
+    <ProjectReference Include="..\Servopa.Infra.Data\Servopa.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

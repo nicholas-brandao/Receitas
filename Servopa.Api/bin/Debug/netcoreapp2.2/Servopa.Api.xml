@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Servopa.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Servopa.Api.Controllers.LoginController.Login(Servopa.Api.Model.UserLogin)">
+            <summary>
+            Efetua o Login
+            </summary>
+            <returns>HttpResponseMessage</returns>
+        </member>
+    </members>
+</doc>

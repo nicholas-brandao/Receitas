@@ -1,0 +1,16 @@
+D:\Documentos\Ubistart\Servopa\Teste\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Documentos\Ubistart\Servopa\Teste\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Documentos\Ubistart\Servopa\Teste\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Documentos\Ubistart\Servopa\Teste\bin\Debug\netcoreapp2.2\Teste.deps.json
+D:\Documentos\Ubistart\Servopa\Teste\bin\Debug\netcoreapp2.2\Teste.runtimeconfig.json
+D:\Documentos\Ubistart\Servopa\Teste\bin\Debug\netcoreapp2.2\Teste.runtimeconfig.dev.json
+D:\Documentos\Ubistart\Servopa\Teste\bin\Debug\netcoreapp2.2\Teste.dll
+D:\Documentos\Ubistart\Servopa\Teste\bin\Debug\netcoreapp2.2\Teste.pdb
+D:\Documentos\Ubistart\Servopa\Teste\obj\Debug\netcoreapp2.2\Teste.csprojAssemblyReference.cache
+D:\Documentos\Ubistart\Servopa\Teste\obj\Debug\netcoreapp2.2\Teste.RazorAssemblyInfo.cache
+D:\Documentos\Ubistart\Servopa\Teste\obj\Debug\netcoreapp2.2\Teste.RazorAssemblyInfo.cs
+D:\Documentos\Ubistart\Servopa\Teste\obj\Debug\netcoreapp2.2\Teste.AssemblyInfoInputs.cache
+D:\Documentos\Ubistart\Servopa\Teste\obj\Debug\netcoreapp2.2\Teste.AssemblyInfo.cs
+D:\Documentos\Ubistart\Servopa\Teste\obj\Debug\netcoreapp2.2\Teste.RazorTargetAssemblyInfo.cache
+D:\Documentos\Ubistart\Servopa\Teste\obj\Debug\netcoreapp2.2\Teste.dll
+D:\Documentos\Ubistart\Servopa\Teste\obj\Debug\netcoreapp2.2\Teste.pdb

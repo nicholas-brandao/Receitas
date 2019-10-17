@@ -1,0 +1,13 @@
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\bin\Release\netcoreapp2.2\Servopa.Infra.Data.deps.json
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\bin\Release\netcoreapp2.2\Servopa.Infra.Data.runtimeconfig.json
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\bin\Release\netcoreapp2.2\Servopa.Infra.Data.runtimeconfig.dev.json
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\bin\Release\netcoreapp2.2\Servopa.Infra.Data.dll
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\bin\Release\netcoreapp2.2\Servopa.Infra.Data.pdb
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\bin\Release\netcoreapp2.2\Servopa.Domain.dll
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\bin\Release\netcoreapp2.2\Servopa.Domain.pdb
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\obj\Release\netcoreapp2.2\Servopa.Infra.Data.csprojAssemblyReference.cache
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\obj\Release\netcoreapp2.2\Servopa.Infra.Data.AssemblyInfoInputs.cache
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\obj\Release\netcoreapp2.2\Servopa.Infra.Data.AssemblyInfo.cs
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\obj\Release\netcoreapp2.2\Servopa.Infra.Data.csproj.CopyComplete
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\obj\Release\netcoreapp2.2\Servopa.Infra.Data.dll
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.Data\obj\Release\netcoreapp2.2\Servopa.Infra.Data.pdb

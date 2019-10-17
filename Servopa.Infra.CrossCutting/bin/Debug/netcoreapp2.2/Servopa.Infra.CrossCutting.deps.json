@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Servopa.Infra.CrossCutting/1.0.0": {
+        "runtime": {
+          "Servopa.Infra.CrossCutting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Servopa.Infra.CrossCutting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

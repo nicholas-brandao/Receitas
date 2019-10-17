@@ -1,0 +1,15 @@
+D:\Documentos\Ubistart\Servopa.Api\Servopa.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.deps.json
+D:\Documentos\Ubistart\Servopa.Api\Servopa.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.dll
+D:\Documentos\Ubistart\Servopa.Api\Servopa.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.pdb
+D:\Documentos\Ubistart\Servopa.Api\Servopa.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.csprojAssemblyReference.cache
+D:\Documentos\Ubistart\Servopa.Api\Servopa.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.AssemblyInfoInputs.cache
+D:\Documentos\Ubistart\Servopa.Api\Servopa.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.AssemblyInfo.cs
+D:\Documentos\Ubistart\Servopa.Api\Servopa.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.dll
+D:\Documentos\Ubistart\Servopa.Api\Servopa.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.pdb
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.deps.json
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.dll
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.pdb
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.AssemblyInfoInputs.cache
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.AssemblyInfo.cs
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.dll
+D:\Documentos\Ubistart\Servopa\Servopa.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Servopa.Infra.CrossCutting.pdb
